@@ -11,3 +11,7 @@
 # $ git log -p // voir toutes les modifs
 # $ git show ID_COMMIT // voir uniquement la modif ID_COMMIT
 # $ git diff ID_COMMIT
+
+# ================
+
+# grep -E "^((\+|00)[0-9]{3}|[0-9]{2})([\. -]?[0-9]{2}){4}"
