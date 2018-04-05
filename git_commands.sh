@@ -1,6 +1,3 @@
-# Initialisation d’un répertoire pour git
-# $ git init
-
 # Changer de repository
 # $ git checkout name
 
