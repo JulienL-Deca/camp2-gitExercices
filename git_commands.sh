@@ -1,5 +1,8 @@
 # Changer de repository
+
 # $ git checkout name / vive le conflit 
+# $ git checkout name //ajout de caratères julien
+
 
 # Obtenir info d’un repository git, à faire en fin de journée et après chaque commit pour s’assurer que tout est clean
 # $ git status
